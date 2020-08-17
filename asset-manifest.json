@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-step-form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-step-form/static/js/main.92d42191.chunk.js",
+    "main.js.map": "/react-step-form/static/js/main.92d42191.chunk.js.map",
+    "runtime-main.js": "/react-step-form/static/js/runtime-main.02581a4b.js",
+    "runtime-main.js.map": "/react-step-form/static/js/runtime-main.02581a4b.js.map",
+    "static/js/2.63f75ed7.chunk.js": "/react-step-form/static/js/2.63f75ed7.chunk.js",
+    "static/js/2.63f75ed7.chunk.js.map": "/react-step-form/static/js/2.63f75ed7.chunk.js.map",
+    "index.html": "/react-step-form/index.html",
+    "precache-manifest.d81df9dc1c372bdcec6993a77e332e63.js": "/react-step-form/precache-manifest.d81df9dc1c372bdcec6993a77e332e63.js",
+    "service-worker.js": "/react-step-form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-step-form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.63f75ed7.chunk.js.LICENSE.txt": "/react-step-form/static/js/2.63f75ed7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02581a4b.js",
+    "static/js/2.63f75ed7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.92d42191.chunk.js"
+  ]
+}
